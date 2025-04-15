@@ -1,1 +1,1 @@
-# DSMP-
+# DSMP-This project is a Secure Chat Application developed as part of our Domain Specific Mini Project (DSMP). The main goal is to create a private, encrypted messaging platform that ensures end-to-end security for all communication between users.
